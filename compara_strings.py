@@ -1,3 +1,8 @@
+"""
+Crie um programa que compara duas 'strings'.
+"""
+
+
 def compara_strings(string1: str, string2: str) -> bool:
     if string1 == string2:
         resp = True
